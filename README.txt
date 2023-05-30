@@ -17,7 +17,7 @@ Organize your images into folders and specify the path to the image folder in th
 
 Run the script by executing the following command in your terminal:
 
-Copy code
+
 python your_script_name.py
 Start a conversation with your bot in Telegram and send the /start command to begin.
 Usage
