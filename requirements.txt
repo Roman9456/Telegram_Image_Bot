@@ -5,8 +5,6 @@ Make sure you have Python installed on your system. You can download the latest 
 
 Create a virtual environment (optional but recommended). Virtual environments help isolate Python dependencies for different projects. Open a terminal or command prompt and navigate to your project directory. Then run the following command to create a virtual environment:
 
-bash
-Copy code
 python -m venv myenv
 This command will create a new virtual environment named "myenv".
 
