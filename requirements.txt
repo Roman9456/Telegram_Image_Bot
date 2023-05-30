@@ -1,0 +1,26 @@
+telebot==0.0.1
+To install the required packages, follow these steps:
+
+Make sure you have Python installed on your system. You can download the latest version of Python from the official Python website: python.org.
+
+Create a virtual environment (optional but recommended). Virtual environments help isolate Python dependencies for different projects. Open a terminal or command prompt and navigate to your project directory. Then run the following command to create a virtual environment:
+
+bash
+Copy code
+python -m venv myenv
+This command will create a new virtual environment named "myenv".
+
+Activate the virtual environment (if you created one). Activate the virtual environment by running the appropriate command for your operating system:
+
+For Windows (Command Prompt):
+
+
+myenv\Scripts\activate
+For Windows (PowerShell):
+
+
+myenv\Scripts\Activate.ps1
+For macOS/Linux:
+
+
+source myenv/bin/activate
